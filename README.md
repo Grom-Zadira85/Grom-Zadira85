@@ -13,7 +13,7 @@
 Відповідально ставлюся до своєї роботи, комунікабельний, працьовитий, енергійний, прагну досягти найвищі 
 результати у будь-якій розпочатій справі. &nbsp; При вивченні нової інформації "прагну докопатися до суті". &nbsp;
 Для мене дуже важливо отримання позитивного результату.
-<br><b> Мій код знаходиться в резиторії Qa-engineer Qa-engineer </b></br>
+<br><b> Мій код знаходиться в резиторії Qa-engineer </b></br>
 </p>
 
 
@@ -22,7 +22,7 @@
 My goal is to find a job in a company that values ​​employees and their contributions to the common good. &nbsp;
 I take responsibility for the work I do. Sociable, hardworking, energetic, I try to get the best results in any work I start. &nbsp;
 When learning new information, “I strive to get to the bottom of it.” &nbsp; It is very important for me to get a positive result.&nbsp;
-  <br><b> My code is in the Qa-engineer Qa-engineer repositoriy.</b></br>
+  <br><b> My code is in the Qa-engineer repositoriy.</b></br>
 
 
 
@@ -34,7 +34,7 @@ When learning new information, “I strive to get to the bottom of it.” &nbsp;
 результаты в любой начатой работе.&nbsp;
 При изучении новой информации "стремлюсь докопаться до сути".&nbsp;
 Для меня очень важно получить положительный результат.&nbsp;
-<br><b> Мой код находится в резитории Qa-engineer Qa-engineer </b></br>
+<br><b> Мой код находится в резитории  Qa-engineer </b></br>
 <br/>
 
 ## <img src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/tools.png" title="Technology stack" width="3%"/> Технології з якими я працюю&nbsp; /Tools and technologies I use &nbsp; /Технологии с которыми я работаю:
