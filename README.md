@@ -64,7 +64,7 @@ When learning new information, “I strive to get to the bottom of it.” &nbsp;
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/contacts.png" title="Contacts" width="3%"/> Мої контакти /Мои контакты:
+## <img src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/contacts.png" title="Contacts" width="3%"/> Мої контакти /My contacts /Мои контакты:
 
 <p align="center">
     <a href="https://t.me/Konstanta_nius"><img width="3%" title="Telegram" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC-94.png" alt="Telegram"></a>&nbsp;
