@@ -52,7 +52,7 @@ When learning new information, “I strive to get to the bottom of it.” &nbsp;
     <img title="SQL" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/8d8606f8446b98089e81a4146a4c83df86cf0fe0/img/icons8-mysql-48.png" width="6%"/> 
     <img title="Trello" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/75369cfdb4e93c661089ffa06df6cbd52f82bfc7/img/icons8-trello-48.png" width="6%"/> 
     <img title="jira" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/icons8-jira-48.png" width="5%"/> 
-    <img src="https://skillicons.dev/icons?i=selenium,postman,pycharm" alt="Server" /></a>
+    <img src="https://skillicons.dev/icons?i=selenium,postman" alt="Server" /></a>
 
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=py,github,git,githubactions,docker,pycharm,linux,bash" alt="DevOps" /></a>
