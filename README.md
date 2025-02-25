@@ -5,7 +5,7 @@
 
 <img align="right" width="20%" src="https://raw.githubusercontent.com/Grom-Zadira85/Qa-engeneer/97b03bbac55e3b27189340c54081b032e64f9367/img/kak-stat-testirovshchikom-po_mini.png"> 
 
-### Привіт, я Костянтин 👋 — інженер з тестування П.З. &nbsp; /Hello, I'm Konstantin - software testing engineer. &nbsp; /Привет, я Константин  — инженер по тестированию П.О.
+## Привіт, я Костянтин 👋 — інженер з тестування П.З. &nbsp; /Hello, I'm Konstantin - software testing engineer. &nbsp; /Привет, я Константин  — инженер по тестированию П.О.
 
 
 <p align="left">
@@ -37,6 +37,92 @@ When learning new information, “I strive to get to the bottom of it.” &nbsp;
 <br><b> Мой код находится в резитории  Qa-engineer </b></br>
 <br/>
 
+---
+
+### Курси:
+Січень 2024р. -Липень 2024 - навчання в RedRover School зі спеціалізації Automation QA Engineer. 
+Школа надала вибір мов програмування 
+- Java
+- Java Script
+- Python
+А також 
+- Dev Frontend
+- QA Theory
+- GIT
+- English (Різні рівні складності)
+- SQL
+
+### Курсы:
+Январь 2024г. - Июль 2024 – обучение в RedRover School по специализации Automation QA Engineer.
+Школа предоставила выбор языков программирования - Java,
+- Java Script
+- Python
+А также 
+- Dev Frontend
+-QA Theory
+- GIT
+- English (Различные уровни сложности)
+- SQL
+
+### Courses:
+January 2024 - July 2024 – training at RedRover School in the Automation QA Engineer specialization. 
+The school provided a choice of programming languages ​​- Java,
+- Java Script
+- Python
+And also 
+- Dev Frontend
+- QA Theory
+- GIT
+- English (Various difficulty levels)
+- SQL
+
+### Мій досвід:
+- Python (Playwright, Selenium )
+- GIT
+- GitHub Actions
+- SQL (MySQL Workbench)
+- QA Theory
+- (Види тестування, написання Тест-плану, Тест-кейсів, Чек-листів, Баг-репортів, Звіту про тестування, класифікація типів тестування, техніки тест-дизайну, SDLC, STLC, HTML, CSS, DevTools, JSON.)
+- Bash
+- Базове адміністрування Linux
+- REST (API)
+- З 04.2024 по 07.2024
+Працював у команді над проектом, використовував Trello для організації завдань та координації роботи.
+Створював та підтримував автотести для UI/UX на Python/Pytest + Selenium/Selene.
+<br> Link project -  https://github.com/RedRoverSchool/LumaProjectPython_2024_spring.git </br>
+
+
+### Мой опыт:
+- Python
+- GIT
+- SQL
+- QA Theory
+- (Виды тестирования, написание Тест-плана, Тест-кейсов, Чек-листов, Баг-репортов, Отчета о тестировании, классификация типов тестирования, техники тест-дизайна, SDLC, STLC, HTML, CSS, DevTools, JSON.
+- Bash
+- базовое администрирование Linux
+- REST (API)
+- с 04.2024 по 07.2024
+Работал в команде над проектом, использовал Trello для организации задач и координации работы.
+Создавал и поддерживал автотесты для UI/UX на Python/Pytest+Selenium/Selene.
+<br> Link project - https://github.com/RedRoverSchool/LumaProjectPython_2024_spring.git </br>
+
+
+### My experience:
+- Python
+-GIT
+- SQL
+-QA Theory
+- (Types of testing, Writing Test Plans, Test Cases, Checklists, Bug Reports, Testing Reports, classification of testing types, test design techniques, SDLC, STLC, HTML, CSS, DevTools, JSON.)
+Basic Linux Administration)
+- Bash
+- basic Linux administration
+- REST (API)
+- from 04.2024 to 07.2024
+Worked in a team on a project, used Trello to organize tasks and coordinate work.
+Created and supported autotests for UI/UX using Python/Pytest+Selenium/Selene.
+<br> Link project - https://github.com/RedRoverSchool/LumaProjectPython_2024_spring.git </br>
+
+---
 
 ## Мої роботи /My works/ Мои работы
 <br>https://github.com/Grom-Zadira85/Qa-engineer</br>
