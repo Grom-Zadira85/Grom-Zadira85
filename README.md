@@ -41,40 +41,14 @@ When learning new information, “I strive to get to the bottom of it.” &nbsp;
 
 ### Курси:
 Січень 2024р. -Липень 2024 - навчання в RedRover School зі спеціалізації Automation QA Engineer. 
-Школа надала вибір мов програмування 
-- Java
-- Java Script
-- Python
-А також 
-- Dev Frontend
-- QA Theory
-- GIT
-- English (Різні рівні складності)
-- SQL
+
 
 ### Курсы:
 Январь 2024г. - Июль 2024 – обучение в RedRover School по специализации Automation QA Engineer.
-Школа предоставила выбор языков программирования - Java,
-- Java Script
-- Python
-А также 
-- Dev Frontend
--QA Theory
-- GIT
-- English (Различные уровни сложности)
-- SQL
 
 ### Courses:
 January 2024 - July 2024 – training at RedRover School in the Automation QA Engineer specialization. 
-The school provided a choice of programming languages ​​- Java,
-- Java Script
-- Python
-And also 
-- Dev Frontend
-- QA Theory
-- GIT
-- English (Various difficulty levels)
-- SQL
+
 
 ### Мій досвід:
 - Python (Playwright, Selenium )
