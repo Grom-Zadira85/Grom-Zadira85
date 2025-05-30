@@ -100,6 +100,8 @@ Created and supported autotests for UI/UX using Python/Pytest+Selenium/Selene.
 
 ## Мої роботи /My works/ Мои работы
 <br>https://github.com/Grom-Zadira85/Qa-engineer</br>
+
+## Виконані тестові завдання від різних компаній/ Completed test tasks from different companies /Выполненные тестовые задания от разных компаний
 <br>https://github.com/Grom-Zadira85/Testing-task-Dzencode-Company.git  - Тестовое задание от компании DzenCode </br>
 
 
